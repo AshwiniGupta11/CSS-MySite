@@ -1,7 +1,6 @@
-
 body {
   text-align: center;
-  font-family: verdana, sans-serif;
+  font-family: Merriweather, serif;
 }
 
 .bottom-cloud {
@@ -14,6 +13,18 @@ div {
   position: relative;
   padding: 100px 0 0 0;
   background-color: #E4F9F5;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.pro {
+  text-decoration: underline;
 }
 
 .top-cloud {
