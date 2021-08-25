@@ -1,3 +1,22 @@
+
 body {
-  background-color: blue;
+  text-align: center;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+div {
+  position: relative;
+  padding: 100px 0 0 0;
+  background-color: #E4F9F5;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
 }
